@@ -1,0 +1,11 @@
+/Users/Heidi/workspace/CSharpDemos/listDemo/bin/Debug/netcoreapp3.0/listDemo
+/Users/Heidi/workspace/CSharpDemos/listDemo/bin/Debug/netcoreapp3.0/listDemo.deps.json
+/Users/Heidi/workspace/CSharpDemos/listDemo/bin/Debug/netcoreapp3.0/listDemo.runtimeconfig.json
+/Users/Heidi/workspace/CSharpDemos/listDemo/bin/Debug/netcoreapp3.0/listDemo.runtimeconfig.dev.json
+/Users/Heidi/workspace/CSharpDemos/listDemo/bin/Debug/netcoreapp3.0/listDemo.dll
+/Users/Heidi/workspace/CSharpDemos/listDemo/bin/Debug/netcoreapp3.0/listDemo.pdb
+/Users/Heidi/workspace/CSharpDemos/listDemo/obj/Debug/netcoreapp3.0/listDemo.csprojAssemblyReference.cache
+/Users/Heidi/workspace/CSharpDemos/listDemo/obj/Debug/netcoreapp3.0/listDemo.AssemblyInfoInputs.cache
+/Users/Heidi/workspace/CSharpDemos/listDemo/obj/Debug/netcoreapp3.0/listDemo.AssemblyInfo.cs
+/Users/Heidi/workspace/CSharpDemos/listDemo/obj/Debug/netcoreapp3.0/listDemo.dll
+/Users/Heidi/workspace/CSharpDemos/listDemo/obj/Debug/netcoreapp3.0/listDemo.pdb
